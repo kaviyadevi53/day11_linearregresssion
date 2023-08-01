@@ -1,1 +1,1 @@
-# day11_linearregresssion
+# day11_logesticregresssion
